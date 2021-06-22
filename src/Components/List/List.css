@@ -1,0 +1,10 @@
+.list-container {
+  border: 1px solid #333;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  width: 35rem;
+  max-width: 96%;
+  margin: 2rem auto;
+  padding: 1rem 1rem;
+  border-radius: 4px;
+  /* min-height: 8rem; */
+}
